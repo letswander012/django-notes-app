@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : letswander012/my-notes-app:latest
+     image : letswander012/my-note-app1:latest
      ports :
          - "8000:8000"
